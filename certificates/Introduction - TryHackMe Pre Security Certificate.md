@@ -1,6 +1,6 @@
 # 🛡️ TryHackMe Certificate
 
-This folder contains my **official TryHackMe cybersecurity certificate**, earned through hands-on labs and structured learning paths.
+Introduction to my **official TryHackMe Pre Security certificate**, earned through hands-on labs and structured learning paths.
 
 ---
 
