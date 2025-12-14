@@ -1,14 +1,28 @@
-This section contains my hands-on cybersecurity labs and Capture The Flag (CTF) practice completed through learning platforms and self-study.
+# 🛡️ Hands-On Labs & Capture The Flag (CTF) Practice
 
-These labs focus on practical, real-world cybersecurity skills including system exploitation, networking, Linux usage, and security analysis.
+This folder contains my **practical cybersecurity labs** and **CTF challenges**, completed through structured learning platforms and self-study.  
+These exercises focus on **real-world security skills**, including system exploitation, networking, Linux usage, and security analysis.
 
-All activities were performed in legal, controlled lab environments for educational purposes only.
+> ⚠️ **Disclaimer:** All activities were performed in **legal, controlled lab environments** for educational purposes only.
 
-### Skills Covered
-- Practical cybersecurity fundamentals
-- Linux command-line usage
-- Networking basics
-- Web application security concepts
-- Enumeration and analysis techniques
-- Security awareness and attack surface understanding
-- Problem-solving through CTF-style challenges
+---
+
+## 🧠 Skills Developed
+
+Through these labs and CTFs, I practiced and strengthened skills in:
+
+- Cybersecurity fundamentals & best practices  
+- Linux command-line proficiency  
+- Networking concepts & troubleshooting  
+- Web application security & vulnerabilities  
+- Enumeration, reconnaissance, and analysis techniques  
+- Security awareness and understanding attack surfaces  
+- Problem-solving with **CTF-style challenges**
+
+---
+
+## 🏆 CTFs & External Resources
+
+I have also participated in CTF challenges to **apply skills in competitive scenarios**:  
+
+[Explore my CTF practice & write-ups on Notion] (https://www.notion.so/CTFs-24b3d203dfb4802597d6fd80baaf58b9?source=copy_link) 🔗
