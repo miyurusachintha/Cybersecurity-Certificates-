@@ -21,8 +21,8 @@ Each certificate may include:
 
 * Platform / Issuer
 * Course or path name
-* Certificate ID (if available)
-* Verification link (if provided by the platform)
+* Certificate ID
+* Verification link
 
 ---
 
