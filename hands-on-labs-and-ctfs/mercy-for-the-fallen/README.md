@@ -8,23 +8,51 @@ Technical Team Member & Challenge Creator
 
 ---
 
-Mercy For The Fallen is a custom cybersecurity Capture The Flag challenge designed for university competitors.
+## 🕯 Story
 
-This challenge focused on analytical thinking, investigation skills, and real-world attacker mindset.
+In *Mercy For The Fallen*, participants assume the role of **the Fallen One** — an intelligence cast into darkness, seeking redemption.
+
+Fragments of memory remain hidden within corrupted digital remnants.
+
+To earn mercy, challengers must uncover truth buried beneath deception, proving understanding rather than destruction.
+
+The narrative mirrors real cybersecurity work:
+finding meaning within chaos and revealing what systems try to hide.
 
 ---
 
-## Skills Tested
-- Enumeration
-- Investigation
-- Logical Analysis
-- Cybersecurity Thinking
+## 🧩 Challenge Concept
+
+This challenge was designed as a story-driven cybersecurity investigation combining multiple layers of analysis and logical progression.
+
+Participants were intentionally given **no clear starting point**, simulating real-world attacker methodology.
 
 ---
 
-## Walkthrough
-See walkthrough.md (No spoilers included)
+## 🎯 Skills Tested
+
+- File Analysis
+- Enumeration Mindset
+- Logical Investigation
+- Hidden Data Discovery
+- Cybersecurity Problem Solving
+
+---
+
+## ⚠️ Disclaimer
+
+This repository contains educational material only.
+No real systems or vulnerabilities are involved.
+
+---
+
+## 📖 Walkthrough
+
+See: [Walkthrough](walkthrough.md)  
+*(Spoiler-free methodology explanation)*
+
+---
 
 ## Poster
 
-![Poster](Mercy For The Fallen Poster.jpeg)
+See:(Mercy For The Fallen Poster.jpeg)
