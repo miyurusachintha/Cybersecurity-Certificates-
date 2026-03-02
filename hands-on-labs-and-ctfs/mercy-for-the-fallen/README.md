@@ -24,3 +24,7 @@ This challenge focused on analytical thinking, investigation skills, and real-wo
 
 ## Walkthrough
 See walkthrough.md (No spoilers included)
+
+## Poster
+
+![Poster](Mercy For The Fallen Poster.jpeg)
